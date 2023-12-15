@@ -7,6 +7,11 @@ div,ul,li,nav{
 		background-color : rgb(255,255,255);
 	    padding : 10px ;
         border-radius : 10px;
-	    list-style-type : none;
-	   
+	text-decoration-line : none;
+	    list-style-type : none;	   
+	}
+	.player_one,.player_two{
+		background-color : rgb(255,255,255);
+		 padding : 10px ;
+        border-radius : 10px;
 	}
